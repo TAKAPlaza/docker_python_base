@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+pycaret
+japanize_matplotlib
+mlxtend
+seaborn
+plotly
+requests
+beautifulsoup4
+Pillow
+opencv-python
+tensorflow
+torch torchvision torchaudio
